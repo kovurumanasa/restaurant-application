@@ -1,0 +1,10 @@
+.restaurant-image {
+  height: 320px;
+  width: 100%;
+}
+a:hover {
+  text-decoration: none;
+}
+.card:hover{
+    border: 2px solid  #ff8c00;
+}
